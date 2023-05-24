@@ -1,0 +1,15 @@
+Soal 1
+1. sql docummentation w3
+2. many to many index sql
+
+Soal 2
+1. sql join example and implementation
+2. sql docummentation
+
+Soal 3
+3. sql docummentation
+
+Soal 4
+1. how to find average value in sql
+2. sintaks sql untuk mengelompokkan data dengan kondisi
+3. sql docummentation

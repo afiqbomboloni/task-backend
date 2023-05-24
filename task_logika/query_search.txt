@@ -1,0 +1,27 @@
+Tugas 1
+how to make input in terminal using node js
+readline node js docummentation
+method javascript for delete last comma from string
+Apa saja bilangan kelipatan 3 dan 7
+
+Tugas 2
+Regex keyword for lowercase
+array method in javascript
+foreach example w3
+mengeluarkan isi array di javascript
+
+Tugas 3
+regex dictionary
+regex cheat sheet
+implement example regex in node js
+regex must 1 word upper case in word
+
+Tugas 4
+Apa itu bilangan cacah?
+math javascript documentation
+method array filter
+example split method javascript
+
+Tugas 5
+apa itu rekursif
+star pattern logic
